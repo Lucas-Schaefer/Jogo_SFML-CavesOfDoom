@@ -5,7 +5,6 @@
 #include <fstream>
 #include <vector>
 
-namespace Jungle {
 
     namespace Gerenciador {
 
@@ -28,5 +27,3 @@ namespace Jungle {
         };
 
     }
-
-}

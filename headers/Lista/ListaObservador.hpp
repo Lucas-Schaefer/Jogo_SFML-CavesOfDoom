@@ -4,7 +4,6 @@
 #include "../Observador/Observador.hpp"
 #include "SFML/Graphics.hpp"
 
-namespace Jungle {
 
     namespace Lista {
 
@@ -26,5 +25,3 @@ namespace Jungle {
         };
 
     }
-
-}

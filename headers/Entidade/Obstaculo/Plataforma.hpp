@@ -19,7 +19,7 @@
 #define TAMANHO_FLUTUANTE_X 80.0f
 #define TAMANHO_FLUTUANTE_Y 40.0f
 
-namespace Jungle {
+
 
     namespace Entidade {
 
@@ -45,4 +45,3 @@ namespace Jungle {
 
     }
 
-}

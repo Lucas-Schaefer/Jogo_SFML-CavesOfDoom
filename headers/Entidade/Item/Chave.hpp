@@ -3,7 +3,6 @@
 #include "../Entidade.hpp"
 #include "../../Animador/Animacao.hpp"
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -35,4 +34,3 @@ namespace Jungle {
 
     }
 
-}

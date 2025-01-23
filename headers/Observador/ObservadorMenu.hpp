@@ -7,7 +7,6 @@
 #include "../Menu/MenuSalvarJogada.hpp"
 #include "../Menu/MenuCarregarJogo.hpp"
 
-namespace Jungle {
 
     namespace Observador {
 
@@ -24,5 +23,3 @@ namespace Jungle {
         };
 
     }
-
-}

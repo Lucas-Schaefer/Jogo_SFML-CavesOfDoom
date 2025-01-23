@@ -1,6 +1,4 @@
-#include "../../include/Lista/ListaEntidade.hpp"
-
-namespace Jungle {
+#include "../../headers/Lista/ListaEntidade.hpp"
 
     namespace Lista {
 
@@ -80,4 +78,3 @@ namespace Jungle {
 
     }
 
-}

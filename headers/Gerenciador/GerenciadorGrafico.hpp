@@ -5,7 +5,6 @@
 
 #include "Camera.hpp"
 
-namespace Jungle {
 
     namespace Gerenciador {
         
@@ -45,5 +44,3 @@ namespace Jungle {
         };
 
     }
-
-}

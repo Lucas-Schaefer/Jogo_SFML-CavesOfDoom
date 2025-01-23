@@ -3,8 +3,6 @@
 #include "../Gerenciador/GerenciadorGrafico.hpp"
 #include <SFML/Graphics.hpp>
 
-namespace Jungle {
-
     namespace Animador {
 
         class Imagem {
@@ -35,5 +33,3 @@ namespace Jungle {
         };
 
     }
-
-}

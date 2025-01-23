@@ -2,7 +2,6 @@
 
 #include <iostream>
 
-namespace Jungle {
 
     namespace Lista {
 
@@ -52,5 +51,3 @@ namespace Jungle {
         }
 
     }
-
-}

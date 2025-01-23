@@ -18,8 +18,6 @@
 #define DEFESA_JOGADOR 20.0f
 #define VITALIDADE_JOGADOR 20.0f
 
-namespace Jungle {
-
     namespace Observador {
         class ObservadorJogador;
     }
@@ -83,5 +81,3 @@ namespace Jungle {
         }
 
     }
-
-}

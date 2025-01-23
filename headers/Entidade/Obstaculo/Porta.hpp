@@ -8,7 +8,7 @@
 #define TEMPO_PORTA_ABRINDO 1.4f
 #define TEMPO_ENTRAR 0.5f
 
-namespace Jungle {
+
 
     namespace Entidade {
 
@@ -47,5 +47,3 @@ namespace Jungle {
         }
 
     }
-
-}

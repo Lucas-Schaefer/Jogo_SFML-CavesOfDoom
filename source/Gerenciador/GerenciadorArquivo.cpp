@@ -1,6 +1,5 @@
-#include "../../include/Gerenciador/GerenciadorArquivo.hpp"
+#include "../../headers/Gerenciador/GerenciadorArquivo.hpp"
 
-namespace Jungle {
 
     namespace Gerenciador {
 
@@ -76,4 +75,3 @@ namespace Jungle {
 
     }
 
-}

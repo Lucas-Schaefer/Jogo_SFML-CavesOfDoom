@@ -1,6 +1,4 @@
-#include "../../include/Gerenciador/GerenciadorMusica.hpp"
-
-namespace Jungle {
+#include "../../headers/Gerenciador/GerenciadorMusica.hpp"
 
     namespace Gerenciador {
 
@@ -117,5 +115,3 @@ namespace Jungle {
         }
 
     }
-
-}

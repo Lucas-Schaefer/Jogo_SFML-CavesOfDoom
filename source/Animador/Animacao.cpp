@@ -1,6 +1,5 @@
-#include "../../include/Animador/Animacao.hpp"
+#include "../../headers/Animador/Animacao.hpp"
 
-namespace Jungle {
 
     namespace Animador {
 
@@ -73,5 +72,3 @@ namespace Jungle {
         }
 
     }
-
-}

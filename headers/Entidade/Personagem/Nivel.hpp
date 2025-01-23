@@ -4,7 +4,6 @@
 #include <math.h>
 #include <iomanip>
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -38,5 +37,3 @@ namespace Jungle {
         }
 
     }
-
-}

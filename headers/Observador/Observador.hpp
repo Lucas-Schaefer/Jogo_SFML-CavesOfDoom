@@ -2,7 +2,6 @@
 
 #include "SFML/Graphics.hpp"
 
-namespace Jungle {
 
     namespace Gerenciador {
         class GerenciadorEvento;
@@ -35,4 +34,3 @@ namespace Jungle {
 
     }
 
-}

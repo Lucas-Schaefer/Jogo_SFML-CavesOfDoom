@@ -3,7 +3,7 @@
 #include "Imagem.hpp"
 #include <map>
 
-namespace Jungle {
+
 
     namespace Animador {
 
@@ -27,5 +27,3 @@ namespace Jungle {
         };
 
     }
-
-}

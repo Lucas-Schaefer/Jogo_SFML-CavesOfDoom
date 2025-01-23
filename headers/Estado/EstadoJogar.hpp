@@ -12,7 +12,6 @@
 
 #include <map>
 
-namespace Jungle {
 
     namespace Estado {
 
@@ -36,4 +35,3 @@ namespace Jungle {
 
     }
 
-}

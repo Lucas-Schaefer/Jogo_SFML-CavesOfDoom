@@ -1,6 +1,5 @@
-#include "../include/Ente.hpp"
+#include "../headers/Ente.hpp"
 
-namespace Jungle {
 
     Gerenciador::GerenciadorGrafico* Ente::pGrafico = Gerenciador::GerenciadorGrafico::getGerenciadorGrafico();
 
@@ -21,5 +20,3 @@ namespace Jungle {
     const IDs::IDs Ente::getID() const {
         return ID;
     }
-
-}

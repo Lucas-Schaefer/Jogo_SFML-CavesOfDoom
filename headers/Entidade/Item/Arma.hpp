@@ -2,7 +2,7 @@
 
 #include "../Personagem/Personagem.hpp"
 
-namespace Jungle {
+
 
     namespace Entidade {
 
@@ -31,4 +31,3 @@ namespace Jungle {
 
     }
 
-}

@@ -5,7 +5,6 @@
 #include <SFML/Audio.hpp>
 #include <map>
 
-namespace Jungle {
 
     namespace Gerenciador {
 
@@ -32,5 +31,3 @@ namespace Jungle {
         };
 
     }
-
-}

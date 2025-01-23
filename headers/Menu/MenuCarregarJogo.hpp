@@ -3,7 +3,6 @@
 #include "MenuPrincipal.hpp"
 #include "../Gerenciador/GerenciadorArquivo.hpp"
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -26,5 +25,3 @@ namespace Jungle {
         };
 
     }
-
-}

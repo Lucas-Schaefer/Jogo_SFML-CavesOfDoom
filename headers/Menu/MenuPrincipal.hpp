@@ -1,17 +1,15 @@
 #pragma once
 
 #include "Menu.hpp"
-#include "../Parallax/Fundo.hpp"
+#include "../Fundo/Fundo.hpp"
 
 #define CAMINHO_TEXTURA_MENU_PRINCIPAL "Jungle++/img/Menu/menuPrincipal.png"
-
-namespace Jungle {
 
     namespace Menu {
 
         class MenuPrincipal: public Menu {
         protected:
-            Parallax::Fundo fundo;
+            Fundo::Fundo fundo;
 
         private:
             void criarFundo();
@@ -25,5 +23,3 @@ namespace Jungle {
         };
 
     } 
-
-}

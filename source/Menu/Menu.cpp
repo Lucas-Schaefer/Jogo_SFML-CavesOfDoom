@@ -1,7 +1,5 @@
-#include "../../include/Menu/Menu.hpp"
-#include "../../include/Observador/ObservadorMenu.hpp"
-
-namespace Jungle {
+#include "../../headers/Menu/Menu.hpp"
+#include "../../headers/Observador/ObservadorMenu.hpp"
 
     namespace Menu {
 
@@ -117,5 +115,3 @@ namespace Jungle {
         }
 
     }
-
-}

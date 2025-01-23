@@ -4,7 +4,6 @@
 #include "../Lista/ListaEntidade.hpp"
 #include <cmath>
 
-namespace Jungle {
 
     namespace Gerenciador {
 
@@ -20,5 +19,3 @@ namespace Jungle {
         };
 
     }
-
-}
