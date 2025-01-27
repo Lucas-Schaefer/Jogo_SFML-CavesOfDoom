@@ -1,9 +1,8 @@
 #pragma once
 
 #include "Fase.hpp"
-#include "../Entidade/Personagem/Inimigo/Carniceiro.hpp"
+#include "../Entidade/Personagem/Inimigo/Demonio.hpp"
 
-namespace Jungle {
 
     namespace Fase {
 
@@ -22,5 +21,3 @@ namespace Jungle {
         };
 
     }
-
-}

@@ -6,7 +6,6 @@
 #include "IDs.hpp"
 #include "Gerenciador/GerenciadorGrafico.hpp"
 
-namespace Jungle {
 
     class Ente {
         protected:
@@ -20,5 +19,3 @@ namespace Jungle {
             const IDs::IDs getID() const;
             virtual void desenhar() = 0;
     };
-
-}

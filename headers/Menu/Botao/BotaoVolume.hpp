@@ -9,7 +9,6 @@
 #define TAMANHO_BOTAO_VOLUME_X 50.0f
 #define TAMANHO_BOTAO_VOLUME_Y 30.0f
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -36,5 +35,3 @@ namespace Jungle {
         }
 
     }
-
-}

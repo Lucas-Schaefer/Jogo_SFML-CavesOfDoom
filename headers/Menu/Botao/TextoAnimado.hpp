@@ -2,8 +2,6 @@
 
 #include "Texto.hpp"
 
-namespace Jungle {
-
     namespace Menu {
 
         namespace Botao {
@@ -26,5 +24,3 @@ namespace Jungle {
         }
 
     }
-
-}

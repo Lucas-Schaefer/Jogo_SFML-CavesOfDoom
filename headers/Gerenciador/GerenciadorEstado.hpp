@@ -12,7 +12,6 @@
 //Pilha
 #include <stack>
 
-namespace Jungle {
 
     namespace Gerenciador {
 
@@ -39,5 +38,3 @@ namespace Jungle {
         };
 
     }
-
-}

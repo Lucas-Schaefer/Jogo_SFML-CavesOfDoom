@@ -1,6 +1,4 @@
-#include "./../../include/Menu/MenuColocacao.hpp"
-
-namespace Jungle {
+#include "./../../headers/Menu/MenuColocacao.hpp"
 
     namespace Menu {
 
@@ -82,5 +80,3 @@ namespace Jungle {
         }
 
     }
-
-}

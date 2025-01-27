@@ -1,8 +1,7 @@
-#include "../../../include/Entidade/Obstaculo/Plataforma.hpp"
-#include "../../../include/Entidade/Item/Projetil.hpp"
+#include "../../../headers/Entidade/Obstaculo/Plataforma.hpp"
+#include "../../../headers/Entidade/Item/Projetil.hpp"
 
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -109,4 +108,3 @@ namespace Jungle {
 
     }
 
-}

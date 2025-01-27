@@ -9,8 +9,6 @@
 #define TAMANHO_CAIXA_X 50.0f
 #define TAMANHO_CAIXA_Y 50.0f
 
-namespace Jungle {
-
     namespace Entidade {
 
         namespace Obstaculo {
@@ -31,5 +29,3 @@ namespace Jungle {
         }
 
     }
-
-}

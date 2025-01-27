@@ -1,8 +1,6 @@
-#include "../../include/Observador/ObservadorMenu.hpp"
-#include "../../include/Gerenciador/GerenciadorEstado.hpp"
-#include "../../include/Menu/Card.hpp"
-
-namespace Jungle {
+#include "../../headers/Observador/ObservadorMenu.hpp"
+#include "../../headers/Gerenciador/GerenciadorEstado.hpp"
+#include "../../headers/Menu/Card.hpp"
 
     namespace Observador {
 
@@ -284,5 +282,3 @@ namespace Jungle {
         }
 
     }
-
-}

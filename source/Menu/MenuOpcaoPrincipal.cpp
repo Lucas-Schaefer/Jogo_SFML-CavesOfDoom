@@ -1,7 +1,6 @@
-#include "../../include/Menu/MenuOpcaoPrincipal.hpp"
+#include "../../headers/Menu/MenuOpcaoPrincipal.hpp"
 //#include "../../include/Observador/ObservadorMenuOpcao.hpp"
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -83,5 +82,3 @@ namespace Jungle {
         }
 
     }
-
-}

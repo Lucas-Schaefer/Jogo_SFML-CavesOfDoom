@@ -2,7 +2,6 @@
 
 #include "../Ente.hpp"
 
-namespace Jungle {
 
     namespace Estado {
 
@@ -20,5 +19,3 @@ namespace Jungle {
         };
 
     }
-
-}

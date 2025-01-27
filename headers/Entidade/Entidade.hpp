@@ -3,7 +3,6 @@
 #include "../Ente.hpp"
 #include <string>
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -32,5 +31,3 @@ namespace Jungle {
         };
 
     }
-
-}

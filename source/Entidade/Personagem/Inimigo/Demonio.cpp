@@ -1,6 +1,5 @@
-#include "../../../../include/Entidade/Personagem/Inimigo/Carniceiro.hpp"
+#include "../../../../headers/Entidade/Personagem/Inimigo/Demonio.hpp"
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -103,5 +102,3 @@ namespace Jungle {
         }
 
     }
-
-}

@@ -8,7 +8,6 @@
 #define PONTOS_ESQUELETO 200
 #define EXPERIENCIA_ESQUELETO 50.0f
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -42,4 +41,3 @@ namespace Jungle {
 
     }
     
-}

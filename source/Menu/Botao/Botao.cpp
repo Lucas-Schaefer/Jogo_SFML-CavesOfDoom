@@ -1,6 +1,5 @@
-#include "../../../include/Menu/Botao/Botao.hpp"
+#include "../../../headers/Menu/Botao/Botao.hpp"
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -58,4 +57,3 @@ namespace Jungle {
 
     }
 
-}

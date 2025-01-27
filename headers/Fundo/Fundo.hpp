@@ -5,9 +5,8 @@
 
 #include "Camada.hpp"
 
-namespace Jungle {
 
-    namespace Parallax {
+    namespace Fundo {
 
         class Fundo : public Ente {
         private:
@@ -23,5 +22,3 @@ namespace Jungle {
         };
 
     }
-
-}

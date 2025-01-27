@@ -2,7 +2,6 @@
 
 #include "Fase.hpp"
 
-namespace Jungle {
 
     namespace Fase {
 
@@ -17,5 +16,3 @@ namespace Jungle {
         };
 
     }
-
-}

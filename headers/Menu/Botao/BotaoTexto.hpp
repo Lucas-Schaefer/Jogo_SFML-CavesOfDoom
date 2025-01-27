@@ -6,7 +6,6 @@
 #define CAMINHO_FONTE "Jungle++/fonte/menu.ttf"
 #define TEMPO_TROCAR_COR 0.01f
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -33,5 +32,3 @@ namespace Jungle {
         }
 
     }
-
-}

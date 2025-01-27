@@ -8,7 +8,6 @@
 
 #define VELOCIDADE_BOTAO_VOLUME 2.0f
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -30,5 +29,3 @@ namespace Jungle {
         };
 
     }
-
-}

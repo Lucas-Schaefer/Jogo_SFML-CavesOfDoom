@@ -3,7 +3,6 @@
 #include "Observador.hpp"
 #include "../Menu/Menu.hpp"
 
-namespace Jungle {
 
     namespace Fase {
         class Fase;
@@ -24,5 +23,3 @@ namespace Jungle {
         };
 
     }
-
-}

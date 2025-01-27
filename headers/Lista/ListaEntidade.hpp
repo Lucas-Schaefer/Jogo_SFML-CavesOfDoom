@@ -3,7 +3,6 @@
 #include "Lista.hpp"
 #include "../Entidade/Entidade.hpp"
 
-namespace Jungle {
 
     namespace Lista {
 
@@ -26,5 +25,3 @@ namespace Jungle {
         };
 
     }
-
-}

@@ -1,9 +1,7 @@
-#include "../../include/Menu/MenuSalvarJogada.hpp"
-#include "../../include/Lista/ListaEntidade.hpp"
-#include "../../include/Gerenciador/GerenciadorEstado.hpp"
-#include "../../include/Fase/Fase.hpp"
-
-namespace Jungle {
+#include "../../headers/Menu/MenuSalvarJogada.hpp"
+#include "../../headers/Lista/ListaEntidade.hpp"
+#include "../../headers/Gerenciador/GerenciadorEstado.hpp"
+#include "../../headers/Fase/Fase.hpp"
 
     namespace Menu {
 
@@ -163,4 +161,3 @@ namespace Jungle {
 
     }
 
-}

@@ -1,8 +1,7 @@
-#include "../../include/Parallax/Fundo.hpp"
+#include "../../headers/Parallax/Fundo.hpp"
 
-namespace Jungle {
 
-    namespace Parallax {
+    namespace Fundo {
 
         Fundo::Fundo(const IDs::IDs ID):
             Ente(ID), posAnteriorCamera(pGrafico->getCamera().getCenter()),
@@ -54,4 +53,3 @@ namespace Jungle {
 
     }
 
-}

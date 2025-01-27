@@ -2,7 +2,6 @@
 
 #include "../../Ente.hpp"
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -35,5 +34,3 @@ namespace Jungle {
         }
 
     }
-
-}

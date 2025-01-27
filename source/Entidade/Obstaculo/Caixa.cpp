@@ -1,6 +1,5 @@
-#include "../../../include/Entidade/Obstaculo/Caixa.hpp"
+#include "../../../headers/Entidade/Obstaculo/Caixa.hpp"
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -92,5 +91,3 @@ namespace Jungle {
         }
 
     }
-
-}

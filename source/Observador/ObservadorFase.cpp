@@ -1,8 +1,8 @@
-#include "../../include/Observador/ObservadorFase.hpp"
-#include "../../include/Gerenciador/GerenciadorEstado.hpp"
-#include "../../include/Fase/Fase.hpp"
+#include "../../headers/Observador/ObservadorFase.hpp"
+#include "../../headers/Gerenciador/GerenciadorEstado.hpp"
+#include "../../headers/Fase/Fase.hpp"
 
-namespace Jungle {
+
 
     namespace Observador {
 
@@ -36,4 +36,3 @@ namespace Jungle {
 
     }
 
-}

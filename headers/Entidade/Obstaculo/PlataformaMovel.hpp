@@ -4,7 +4,7 @@
 
 #define VELOCIDADE_PLATAFORMA 100.0f
 
-namespace Jungle {
+
 
     namespace Entidade {
 
@@ -34,4 +34,3 @@ namespace Jungle {
 
     }
 
-}

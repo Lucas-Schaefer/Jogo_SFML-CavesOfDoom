@@ -1,8 +1,7 @@
-#include "../../include/Parallax/Camada.hpp"
+#include "../../headers/Fundo/Camada.hpp"
 
-namespace Jungle {
 
-    namespace Parallax {
+    namespace Fundo {
 
         Camada::Camada(const sf::Vector2f tamJanela, sf::Texture textura, const float vel):
             tamJanela(tamJanela), textura(textura), dimensao(0,0,0,0), vel(vel)
@@ -76,4 +75,3 @@ namespace Jungle {
 
     }
 
-}

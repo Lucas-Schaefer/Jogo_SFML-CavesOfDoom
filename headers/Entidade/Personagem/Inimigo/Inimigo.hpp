@@ -15,7 +15,7 @@
 #define VELOCIDADE_INIMIGO 60.0f
 #define TEMPO_MOVER_ALEATORIO 1.0f
 
-namespace Jungle {
+
 
     namespace Entidade {
 
@@ -55,5 +55,3 @@ namespace Jungle {
         }
 
     }
-
-}
