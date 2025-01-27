@@ -1,6 +1,4 @@
-#include "./../../include/Menu/MenuGameOver.hpp"
-
-namespace Jungle {
+#include "./../../headers/Menu/MenuGameOver.hpp"
 
     namespace Menu {
 
@@ -110,5 +108,3 @@ namespace Jungle {
         }
 
     }
-
-}

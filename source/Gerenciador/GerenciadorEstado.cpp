@@ -1,6 +1,5 @@
-#include "../../include/Gerenciador/GerenciadorEstado.hpp"
+#include "../../headers/Gerenciador/GerenciadorEstado.hpp"
 
-namespace Jungle {
 
     namespace Gerenciador {
 
@@ -152,4 +151,3 @@ namespace Jungle {
 
     }
 
-}

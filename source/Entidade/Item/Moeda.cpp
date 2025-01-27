@@ -1,7 +1,5 @@
-#include "../../../include/Entidade/Item/Moeda.hpp"
-#include "../../../include/Entidade/Personagem/Jogador/Jogador.hpp"
-
-namespace Jungle {
+#include "../../../headers/Entidade/Item/Moeda.hpp"
+#include "../../../headers/Entidade/Personagem/Jogador/Jogador.hpp"
 
     namespace Entidade {
 
@@ -79,4 +77,3 @@ namespace Jungle {
 
     }
 
-}

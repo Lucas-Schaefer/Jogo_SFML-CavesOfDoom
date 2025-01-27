@@ -1,8 +1,7 @@
-#include "../../include/Menu/Card.hpp"
-#include "../../include/Gerenciador/GerenciadorArquivo.hpp"
+#include "../../headers/Menu/Card.hpp"
+#include "../../headers/Gerenciador/GerenciadorArquivo.hpp"
 #include <fstream>
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -119,4 +118,3 @@ namespace Jungle {
 
     }
 
-}

@@ -3,7 +3,6 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 
-namespace Jungle {
 
     namespace Gerenciador {
 
@@ -27,5 +26,3 @@ namespace Jungle {
         };
 
     }
-
-}

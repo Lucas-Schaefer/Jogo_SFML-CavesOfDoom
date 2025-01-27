@@ -1,6 +1,5 @@
-#include "../../include/Fase/FlorestaVermelha.hpp"
+#include "../../headers/Fase/FlorestaVermelha.hpp"
 
-namespace Jungle {
 
     namespace Fase {
 
@@ -31,4 +30,3 @@ namespace Jungle {
 
     }
 
-}

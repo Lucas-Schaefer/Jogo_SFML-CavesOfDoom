@@ -8,7 +8,6 @@
 #define QUANTIDADE_PALAVRAS 2
 #define CAMINHO_FONTE_COLOCACAO "Jungle++/fonte/menuColocacao.ttf"
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -28,5 +27,3 @@ namespace Jungle {
         };
 
     }
-
-}

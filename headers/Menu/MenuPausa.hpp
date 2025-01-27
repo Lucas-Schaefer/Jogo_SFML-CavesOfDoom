@@ -3,7 +3,6 @@
 #include "Menu.hpp"
 #include "../Fase/Fase.hpp"
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -28,5 +27,3 @@ namespace Jungle {
         };
 
     }
-
-}

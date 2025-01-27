@@ -1,7 +1,6 @@
-#include "../../include/Gerenciador/Camera.hpp"
-#include "../../include/Gerenciador/GerenciadorGrafico.hpp"
+#include "../../headers/Gerenciador/Camera.hpp"
+#include "../../headers/Gerenciador/GerenciadorGrafico.hpp"
 
-namespace Jungle {
 
     namespace Gerenciador {
 
@@ -112,5 +111,3 @@ namespace Jungle {
         }
 
     }
-
-}

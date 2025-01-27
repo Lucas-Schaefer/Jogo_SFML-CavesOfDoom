@@ -4,7 +4,7 @@
 #include "../Ente.hpp"
 
 //Fundo efeito Parallax
-#include "../Parallax/Fundo.hpp"
+#include "../Fundo/Fundo.hpp"
 
 //Gerenciadores
 #include "../Gerenciador/GerenciadorColisao.hpp"
@@ -13,8 +13,8 @@
 //Listas
 #include "../Lista/ListaEntidade.hpp"
 
-#include "../Entidade/Personagem/Inimigo/Esqueleto.hpp"
-#include "../Entidade/Personagem/Inimigo/Alma.hpp"
+#include "../Entidade/Personagem/Inimigo/Orc.hpp"
+#include "../Entidade/Personagem/Inimigo/Lobo.hpp"
 #include "../Entidade/Item/Projetil.hpp"
 #include "../Entidade/Item/Moeda.hpp"
 #include "../Entidade/Item/Vida.hpp"
@@ -25,7 +25,7 @@
 #include "../Entidade/Personagem/Jogador/Jogador.hpp"
 #include "../Observador/ObservadorFase.hpp"
 #include "../Entidade/Obstaculo/Espinho.hpp"
-#include "../Entidade/Personagem/Inimigo/Carniceiro.hpp"
+#include "../Entidade/Personagem/Inimigo/Demonio.hpp"
 
 #include "../Menu/Botao/Texto.hpp"
 
@@ -33,10 +33,9 @@
 
 #define CAMINHO_FONTE_FASE "Jungle++/fonte/menuColocacao.ttf"
 
-namespace Jungle {
 
     using namespace Entidade;
-    using namespace Entidade::Personagem;
+    using namespace Personagem;
 
     namespace Fase {
 
@@ -50,7 +49,7 @@ namespace Jungle {
             Lista::ListaEntidade* listaObstaculos;
             Gerenciador::GerenciadorArquivo GArquivo;
             Gerenciador::GerenciadorColisao* pColisao;
-            Parallax::Fundo fundo;
+            Fundo::Fundo fundo;
             static Menu::Botao::Texto textoTempo;
             static unsigned int pontuacaoJogador;
             static Menu::Botao::Texto textoPontuacao;
@@ -73,7 +72,7 @@ namespace Jungle {
             ~Fase();
             virtual void criarFundo() = 0;
             virtual void criarMapa(const IDs::IDs ID_Mapa) = 0;
-            Entidade::Personagem::Jogador::Jogador* getJogador();
+            Jogador::Jogador* getJogador();
             void mudarEstadoObservador();
             void mudarFase(const IDs::IDs ID_Fase = IDs::IDs::vazio);
             void removerJogadorLista();
@@ -91,5 +90,3 @@ namespace Jungle {
         };
 
     }
-
-}

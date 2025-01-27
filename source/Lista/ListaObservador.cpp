@@ -1,6 +1,5 @@
-#include "../../include/Lista/ListaObservador.hpp"
+#include "../../headers/Lista/ListaObservador.hpp"
 
-namespace Jungle {
 
     namespace Lista {
 
@@ -77,4 +76,3 @@ namespace Jungle {
 
     }
 
-}

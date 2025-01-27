@@ -8,7 +8,6 @@
 #define TAMANHO_BOTAO_MENU_GAME_OVER_Y 80.0f
 #define CAMINHO_FONTE_MENU_GAME_OVER "Jungle++/fonte/menu.ttf"
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -31,5 +30,3 @@ namespace Jungle {
         };
 
     }
-
-}

@@ -1,7 +1,6 @@
-#include "../../../include/Entidade/Obstaculo/Porta.hpp"
-#include "../../../include/Gerenciador/GerenciadorEstado.hpp"
+#include "../../../headers/Entidade/Obstaculo/Porta.hpp"
+#include "../../../headers/Gerenciador/GerenciadorEstado.hpp"
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -209,5 +208,3 @@ namespace Jungle {
         }
 
     }
-
-}

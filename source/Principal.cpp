@@ -1,6 +1,5 @@
-#include "../include/Principal.hpp"
+#include "../headers/Principal.hpp"
 
-namespace Jungle {
 
     Gerenciador::GerenciadorGrafico* Principal::pGrafico = Gerenciador::GerenciadorGrafico::getGerenciadorGrafico();
     Gerenciador::GerenciadorEstado* Principal::pGerenciadorEstado = Gerenciador::GerenciadorEstado::getGerenciadorEstado();
@@ -50,5 +49,3 @@ namespace Jungle {
             pGrafico->resetarRelogio();
         }
     }
-
-}

@@ -1,8 +1,7 @@
-#include "../../../include/Entidade/Item/Chave.hpp"
-#include "../../../include/Entidade/Obstaculo/Porta.hpp"
-#include "../../../include/Entidade/Personagem/Jogador/Jogador.hpp"
+#include "../../../headers/Entidade/Item/Chave.hpp"
+#include "../../../headers/Entidade/Obstaculo/Porta.hpp"
+#include "../../../headers/Entidade/Personagem/Jogador/Jogador.hpp"
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -87,5 +86,3 @@ namespace Jungle {
         }
 
     }
-
-}

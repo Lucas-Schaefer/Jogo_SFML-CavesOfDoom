@@ -2,7 +2,6 @@
 
 #include "Elemento.hpp"
 
-namespace Jungle {
 
     namespace Lista {
 
@@ -174,5 +173,3 @@ namespace Jungle {
         }
 
     }
-
-}

@@ -1,7 +1,6 @@
-#include "../../../include/Entidade/Personagem/Personagem.hpp"
-#include "../../../include/Entidade/Item/Arma.hpp"
+#include "../../../headers/Entidade/Personagem/Personagem.hpp"
+#include "../../../headers/Entidade/Item/Arma.hpp"
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -161,5 +160,3 @@ namespace Jungle {
         }
 
     }
-
-}

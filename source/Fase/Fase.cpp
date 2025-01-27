@@ -1,6 +1,6 @@
-#include "../../include/Fase/Fase.hpp"
+#include "../../headers/Fase/Fase.hpp"
 
-namespace Jungle {
+
 
     using namespace Entidade;
     using namespace Entidade::Personagem;
@@ -547,4 +547,3 @@ namespace Jungle {
 
     }
 
-}

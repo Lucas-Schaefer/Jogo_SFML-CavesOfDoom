@@ -2,7 +2,6 @@
 
 #include "Inimigo.hpp"
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -27,5 +26,3 @@ namespace Jungle {
         }
 
     }
-
-}

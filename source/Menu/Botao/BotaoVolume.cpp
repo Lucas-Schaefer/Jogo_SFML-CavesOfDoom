@@ -1,6 +1,5 @@
-#include "../../../include/Menu/Botao/BotaoVolume.hpp"
+#include "../../../headers/Menu/Botao/BotaoVolume.hpp"
 
-namespace Jungle {
 
     Gerenciador::GerenciadorMusica* Menu::Botao::BotaoVolume::pMusica = Gerenciador::GerenciadorMusica::getGerenciadorMusica();
 
@@ -93,5 +92,3 @@ namespace Jungle {
         }
 
     }
-
-}

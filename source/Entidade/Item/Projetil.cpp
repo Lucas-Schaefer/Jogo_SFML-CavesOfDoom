@@ -1,6 +1,4 @@
-#include "../../../include/Entidade/Item/Projetil.hpp"
-
-namespace Jungle {
+#include "../../../headers/Entidade/Item/Projetil.hpp"
 
     namespace Entidade {
 
@@ -149,4 +147,3 @@ namespace Jungle {
 
     }
     
-}

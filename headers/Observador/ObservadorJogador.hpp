@@ -4,7 +4,6 @@
 #include "../Entidade/Personagem/Jogador/Jogador.hpp"
 #include "../Gerenciador/GerenciadorEstado.hpp"
 
-namespace Jungle {
 
     namespace Observador {
 
@@ -20,5 +19,3 @@ namespace Jungle {
         };
 
     }
-
-}

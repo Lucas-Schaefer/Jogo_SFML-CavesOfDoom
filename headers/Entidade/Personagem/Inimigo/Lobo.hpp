@@ -15,7 +15,6 @@
 #define DEFESA_ALMA 20.0f
 #define VITALIDADE_ALMA 10.0f
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -46,5 +45,3 @@ namespace Jungle {
         }
 
     }
-
-}

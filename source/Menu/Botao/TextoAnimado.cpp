@@ -1,6 +1,5 @@
-#include "../../../include/Menu/Botao/TextoAnimado.hpp"
+#include "../../../headers/Menu/Botao/TextoAnimado.hpp"
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -48,5 +47,3 @@ namespace Jungle {
         }
 
     }
-
-}

@@ -12,7 +12,6 @@
 
 #include <SFML/Audio.hpp>
 
-namespace Jungle {
 
     class Principal {
         private:
@@ -26,5 +25,3 @@ namespace Jungle {
             ~Principal();
             void executar();
     };
-
-}

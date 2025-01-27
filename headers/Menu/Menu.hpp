@@ -4,13 +4,11 @@
 #include "Card.hpp"
 #include "Botao/BotaoTexto.hpp"
 #include "Botao/Texto.hpp"
-#include "../Parallax/Fundo.hpp"
+#include "../Fundo/Fundo.hpp"
 #include <list>
 
 #define TAMANHO_BOTAO_X 350.0f
 #define TAMANHO_BOTAO_Y 50.0f
-
-namespace Jungle {
 
     namespace Observador {
         class ObservadorMenu;
@@ -51,4 +49,3 @@ namespace Jungle {
 
     }
     
-}

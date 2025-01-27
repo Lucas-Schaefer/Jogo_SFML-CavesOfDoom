@@ -1,15 +1,14 @@
-#include "../../../../include/Entidade/Personagem/Jogador/Jogador.hpp"
-#include "../../../../include/Observador/ObservadorJogador.hpp"
-#include "../../../../include/Entidade/Personagem/Inimigo/Inimigo.hpp"
-#include "../../../../include/Entidade/Item/Vida.hpp"
-#include "../../../../include/Entidade/Item/Projetil.hpp"
-#include "../../../../include/Entidade/Item/Moeda.hpp"
-#include "../../../../include/Entidade/Obstaculo/Porta.hpp"
-#include "../../../../include/Entidade/Obstaculo/Espinho.hpp"
+#include "../../../../headers/Entidade/Personagem/Jogador/Jogador.hpp"
+#include "../../../../headers/Observador/ObservadorJogador.hpp"
+#include "../../../../headers/Entidade/Personagem/Inimigo/Inimigo.hpp"
+#include "../../../../headers/Entidade/Item/Vida.hpp"
+#include "../../../../headers/Entidade/Item/Projetil.hpp"
+#include "../../../../headers/Entidade/Item/Moeda.hpp"
+#include "../../../../headers/Entidade/Obstaculo/Porta.hpp"
+#include "../../../../headers/Entidade/Obstaculo/Espinho.hpp"
 
 #include <cmath>
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -475,5 +474,3 @@ namespace Jungle {
         }
 
     }
-
-}

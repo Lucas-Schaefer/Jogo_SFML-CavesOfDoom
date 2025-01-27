@@ -1,6 +1,5 @@
-#include "../../include/Fase/FlorestaBranca.hpp"
+#include "../../headers/Fase/FlorestaBranca.hpp"
 
-namespace Jungle {
 
     namespace Fase {
 
@@ -255,5 +254,5 @@ namespace Jungle {
 
     }
 
-}
+
 

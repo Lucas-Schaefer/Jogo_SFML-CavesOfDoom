@@ -5,7 +5,6 @@
 
 #define CAMINHO_FONTE_CARD "Jungle++/fonte/menu.ttf"
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -37,5 +36,3 @@ namespace Jungle {
         };
 
     }
-
-}

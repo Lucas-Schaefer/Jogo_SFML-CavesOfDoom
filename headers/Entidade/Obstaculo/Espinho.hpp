@@ -5,8 +5,6 @@
 #define DANO_ESPINHO_PADRAO 35.0f
 #define CAMINHO_TEXTURA_ESPINHO "Jungle++/img/Obstaculo/Espinho.png"
 
-namespace Jungle {
-
     namespace Entidade {
 
         namespace Obstaculo {
@@ -29,5 +27,3 @@ namespace Jungle {
         }
 
     }
-
-}

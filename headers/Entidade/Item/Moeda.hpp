@@ -9,7 +9,6 @@
 #define PONTOS_MOEDA_AMARELA 500
 #define PONTOS_MOEDA_CINZA 250
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -35,5 +34,3 @@ namespace Jungle {
         }
 
     }
-
-}

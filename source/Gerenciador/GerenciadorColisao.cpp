@@ -1,6 +1,4 @@
-#include "../../include/Gerenciador/GerenciadorColisao.hpp"
-
-namespace Jungle {
+#include "../../headers/Gerenciador/GerenciadorColisao.hpp"
 
     namespace Gerenciador {
 
@@ -82,4 +80,4 @@ namespace Jungle {
 
     }
 
-}
+

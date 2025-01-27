@@ -5,7 +5,6 @@
 
 #define TAMANHO_PROJETIL 25.0f
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -38,5 +37,3 @@ namespace Jungle {
         }
 
     }
-
-}

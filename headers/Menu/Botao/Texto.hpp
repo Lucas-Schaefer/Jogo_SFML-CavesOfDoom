@@ -2,7 +2,6 @@
 
 #include <SFML/Graphics.hpp>
 
-namespace Jungle {
 
     namespace Menu {
 
@@ -39,5 +38,3 @@ namespace Jungle {
         }
 
     }
-
-}

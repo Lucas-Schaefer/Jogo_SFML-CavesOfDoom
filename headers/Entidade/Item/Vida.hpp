@@ -8,8 +8,6 @@
 #define VIDA_MAXIMA 80
 #define VIDA_MINIMA 20
 
-namespace Jungle {
-
     namespace Entidade {
 
         namespace Item {
@@ -34,5 +32,3 @@ namespace Jungle {
         }
 
     }
-
-}

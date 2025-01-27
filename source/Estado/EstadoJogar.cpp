@@ -1,6 +1,5 @@
-#include "../../include/Estado/EstadoJogar.hpp"
+#include "../../headers/Estado/EstadoJogar.hpp"
 
-namespace Jungle {
 
     namespace Estado {
 
@@ -157,5 +156,3 @@ namespace Jungle {
         }
 
     }
-
-}

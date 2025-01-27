@@ -2,9 +2,8 @@
 
 #include <SFML/Graphics.hpp>
 
-namespace Jungle {
 
-    namespace Parallax {
+    namespace Fundo {
 
         class Camada {
         private:
@@ -25,5 +24,3 @@ namespace Jungle {
         };
 
     }
-
-}

@@ -1,6 +1,5 @@
-#include "../../../include/Entidade/Item/Vida.hpp"
+#include "../../../headers/Entidade/Item/Vida.hpp"
 
-namespace Jungle {
 
     namespace Entidade {
 
@@ -86,5 +85,3 @@ namespace Jungle {
         }
 
     }
-
-}

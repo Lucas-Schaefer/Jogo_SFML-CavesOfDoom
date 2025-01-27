@@ -1,7 +1,5 @@
-#include "../../include/Observador/ObservadorJogador.hpp"
-#include "../../include/Estado/EstadoJogar.hpp"
-
-namespace Jungle {
+#include "../../headers/Observador/ObservadorJogador.hpp"
+#include "../../headers/Estado/EstadoJogar.hpp"
 
     namespace Observador {
 
@@ -61,5 +59,3 @@ namespace Jungle {
         }
 
     }
-
-}

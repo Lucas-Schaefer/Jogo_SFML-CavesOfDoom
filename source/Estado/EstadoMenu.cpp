@@ -1,14 +1,13 @@
-#include "../../include/Estado/EstadoMenu.hpp"
-#include "../../include/Menu/MenuPausa.hpp"
-#include "../../include/Menu/MenuCarregarJogo.hpp"
-#include "../../include/Menu/MenuColocacao.hpp"
-#include "../../include/Menu/MenuGameOver.hpp"
-#include "../../include/Menu/MenuOpcaoPrincipal.hpp"
-#include "../../include/Menu/MenuPrincipal.hpp"
-#include "../../include/Menu/MenuSalvarJogada.hpp"
-#include "../../include/Gerenciador/GerenciadorEstado.hpp"
+#include "../../headers/Estado/EstadoMenu.hpp"
+#include "../../headers/Menu/MenuPausa.hpp"
+#include "../../headers/Menu/MenuCarregarJogo.hpp"
+#include "../../headers/Menu/MenuColocacao.hpp"
+#include "../../headers/Menu/MenuGameOver.hpp"
+#include "../../headers/Menu/MenuOpcaoPrincipal.hpp"
+#include "../../headers/Menu/MenuPrincipal.hpp"
+#include "../../headers/Menu/MenuSalvarJogada.hpp"
+#include "../../headers/Gerenciador/GerenciadorEstado.hpp"
 
-namespace Jungle {
 
     namespace Estado {
 
@@ -158,5 +157,3 @@ namespace Jungle {
         }
 
     }
-
-}
